@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/devOverflow.iml" filepath="$PROJECT_DIR$/.idea/devOverflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/devoverflow.iml" filepath="$PROJECT_DIR$/.idea/devoverflow.iml" />
     </modules>
   </component>
 </project>
