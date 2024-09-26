@@ -1,4 +1,3 @@
-
 import { SidebarLink } from "@/types";
 
 export const themes = [

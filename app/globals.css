@@ -163,3 +163,9 @@ code {
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
 }
+
+body .w-md-editor-text-pre > code,
+body .w-md-editor-text-input {
+  font-size: 15px !important;
+  line-height: 16px !important;
+}

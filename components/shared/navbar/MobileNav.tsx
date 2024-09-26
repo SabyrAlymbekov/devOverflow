@@ -40,7 +40,7 @@ function MobileNav() {
                 alt="DevOverflow"
               ></Image>
               <p className="h2-bold text-dark100_light900 font-spaceGrotesk">
-                Dev<span className="primary-text-gradient">Overflow</span>
+                Dev<span className="primary-text-gradient">Limits</span>
               </p>
             </Link>
           </SheetTitle>
